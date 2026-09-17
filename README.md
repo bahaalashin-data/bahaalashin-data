@@ -9,10 +9,11 @@ Experienced in extracting large volumes of data from complex PDF and database so
 
 ### 🛠️ Tech Stack & Skills
 
-- 🐍 **Python:** Data Processing, Automation, Pandas, OpenPyXL
-- 🗄️ **SQL:** Data Querying, Data Cleaning, Database Management
-- 📊 **BI & Analytics:** Power BI, Advanced Excel (VBA/Macros), Dashboards
-- 📑 **Data Extraction:** PDF Parsing, Large Dataset Processing, Quality Checks
+- 🐍 **Python & Data Processing:** Pandas, OpenPyXL, Data Transformation, File Processing
+- 🗄️ **SQL & Databases:** Data Querying, Data Cleaning, Database Management
+- 📊 **BI & Analytics:** Power BI, Advanced Excel (VBA/Macros), Interactive Dashboards
+- 📑 **Data Extraction:** PDF Parsing, Large Dataset Processing, Data Validation & Quality Checks
+- ⚙️ **Process Improvement**: Workflow Optimization, Repetitive Task Automation
 
 ---
 
